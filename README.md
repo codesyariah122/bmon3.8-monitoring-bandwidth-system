@@ -10,4 +10,4 @@ apt-get install build-essential make libconfuse-dev libnl-3-dev libnl-route-3-de
 ./configure<br>
 make && make install<br>
 bmon<br></center>
-<h2>================Mulai=================</h2>
+<h1>================The End=================</h1>
