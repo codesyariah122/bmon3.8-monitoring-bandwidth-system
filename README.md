@@ -1,5 +1,5 @@
 # bmon3.8
-<h1>============================Mulai===============================</h1>
+<h1>================Mulai=================</h1>
 <center>
 <b>PujiErmanto was here</b><br>
 seperti biasa kalian jangan lupa mamam <br>
